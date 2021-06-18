@@ -91,6 +91,9 @@ Here we have used three models.
 1. Logistic Regression Model.
 2. Decision Tree Model.
 3. LSTM (Long Short Term Memory) Networks
+![github-small](
+https://github.com/BhaveshRaj27/Tweet-sentiment-Analysis/blob/main/Images/LSTM.png
+)
 
 Logistic Regression is a classification algorithm used to assign observations to a discrete set of
 classes. Unlike linear regression which outputs continuous number values, logistic regression
@@ -111,6 +114,7 @@ To know about F1 Score we first have to know about Precision and Recall.
  Recall refers to the percentage of total relevant results correctly classified by your algorithm.
 of data. They have widely been used for speech recognition, language modeling, sentiment
 analysis and text prediction.
+![github-small](https://github.com/BhaveshRaj27/Tweet-sentiment-Analysis/blob/main/Images/Precesion.png)
 
 We always face a trade-off situation between Precision and Recall i.e. High Precision gives low Recall and
 vice versa.
